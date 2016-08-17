@@ -33,6 +33,7 @@ HTML := \
     index-de.html \
     index-en.html \
     index-es.html \
+    index-fa.html \
     index-fr.html \
     index-it.html \
     index-ja.html \
